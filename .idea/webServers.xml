@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9fe9553e-1ed2-4bdd-b637-e0966c478f41" name="idp" url="http://idp.e-bizs.net">
+        <fileTransfer host="idp.e-bizs.net" port="5224" rootFolder="/home/idp/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="5224" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
